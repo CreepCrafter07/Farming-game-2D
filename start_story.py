@@ -2,6 +2,7 @@ import time
 
 
 def start():
+    print("Da bin ich!")
     time.sleep(1)
     print("Farming Game 2D")
     print("Copyright (c) 2021 Yannick Schlimm")
